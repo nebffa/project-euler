@@ -1,0 +1,2 @@
+asdf.exe:
+    gcc 3.c -o 3.exe
